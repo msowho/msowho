@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
 
-<!--
-**msowho/msowho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm russian full-stack web developer from Magintogorsk, Russia. Currently i'm working at reMogo (fan reborn of israeli MMO game) as web developer and Toxic Studio as helper/programmer.
 
-Here are some ideas to get you started:
+## My knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Yandex.Cloud](https://img.shields.io/badge/-yandex%20cloud-yellow?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfmCAwKLg0OTlYBAAABR0lEQVQoz1WRv0tbARRGT7RPOpVMeXToYqTQv6AdLB2bBCvFTXTq7hQHW9zsj7UgIUu6FRp4g0PSoWOhGVzNYApxiIJ5Ph7UsQjJcXgvRLnjx/249xxExMCKkbFTp45tWzXIkoIAIftsMuYPQ5Z4zSuu+c5HrgAxtGNi3TBvC+15YmzHUDDw0MT1PMym5ZEbJh4aYM3U3TwoWPaN7x3YddG6qRWM7OflRb94burIiQ0xtG+Esc18+8BrP/vcl166I2LTeIESQwCesMU3PnBMwENOATijtAAUAHhKkZ8ArPGPvwAID0goA/CM/9zwgre84ysXAKyQzI9sOHFk6shPPsp59I2wYmrdRbsO3HPNZQv507um1magNjyydQ/W+gxUhjr2xN4d2HWTDPVc1jZFfvOLG1ZY5TE/5rIy3VXbjp06NTayMtN9C5VoEPbhgtAIAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTA4LTEyVDEwOjQ2OjAxKzAwOjAwrdS10AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wOC0xMlQxMDo0NjowMSswMDowMNyJDWwAAAAASUVORK5CYII=)
+
+## My Github stats
+
+![Mikhail's Github stats](https://github-readme-stats.vercel.app/api?username=msowho&hide=contribs,prs&count_private=true&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msowho)
