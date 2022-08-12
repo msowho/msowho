@@ -8,6 +8,6 @@ Hello, I'm russian full-stack web developer from Magintogorsk, Russia. Currently
 
 ## My Github stats
 
-![Mikhail's Github stats](https://github-readme-stats.vercel.app/api?username=msowho&hide=contribs,prs&count_private=true&show_icons=true)
+![Mikhail's Github stats](https://github-readme-stats.vercel.app/api?username=msowho&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msowho)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msowho&theme=dark)
