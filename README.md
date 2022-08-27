@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I'm russian full-stack web developer from Magintogorsk, Russia. Currently i'm working at Toxic Studio as helper/programmer.
+Hello, I'm full-stack web developer from Magintogorsk, Russia. Currently i'm working at Toxic Studio as helper/programmer.
 
 ## My knowledge
 
